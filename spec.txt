@@ -1,0 +1,4 @@
+* A user can enter text into an input field
+* A user can click an add button to add the text from the field to a list
+* A user can click on a list item to edit it
+* A user can click on a button next to a list item to delete that item
